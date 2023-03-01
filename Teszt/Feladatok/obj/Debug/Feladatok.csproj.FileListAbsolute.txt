@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\bin\Debug\Feladatok.exe.config
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\bin\Debug\Feladatok.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\bin\Debug\Feladatok.pdb
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\obj\Debug\Feladatok.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\obj\Debug\Feladatok.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\obj\Debug\Feladatok.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\obj\Debug\Feladatok.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Feladatok\obj\Debug\Feladatok.pdb

@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\bin\Debug\Tombos.exe.config
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\bin\Debug\Tombos.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\bin\Debug\Tombos.pdb
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\obj\Debug\Tombos.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\obj\Debug\Tombos.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\obj\Debug\Tombos.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\obj\Debug\Tombos.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Tombos\obj\Debug\Tombos.pdb

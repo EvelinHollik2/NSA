@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\bin\Debug\Teszt.exe.config
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\bin\Debug\Teszt.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\bin\Debug\Teszt.pdb
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\obj\Debug\Teszt.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\obj\Debug\Teszt.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\obj\Debug\Teszt.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Teszt\obj\Debug\Teszt.pdb

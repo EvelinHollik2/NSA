@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\bin\Debug\Akasztofa.exe.config
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\bin\Debug\Akasztofa.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\bin\Debug\Akasztofa.pdb
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\obj\Debug\Akasztofa.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\obj\Debug\Akasztofa.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\obj\Debug\Akasztofa.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\obj\Debug\Akasztofa.exe
+C:\Users\hollik.evelin\Desktop\NSÁ\Teszt\Akasztofa\obj\Debug\Akasztofa.pdb
