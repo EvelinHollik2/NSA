@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\bin\Debug\Dolg.exe.config
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\bin\Debug\Dolg.exe
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\bin\Debug\Dolg.pdb
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\obj\Debug\Dolg.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\obj\Debug\Dolg.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\obj\Debug\Dolg.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\obj\Debug\Dolg.exe
+C:\Users\hollik.evelin\Desktop\NSA\NSA-main\NSA\Dolg\obj\Debug\Dolg.pdb
